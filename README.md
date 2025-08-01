@@ -34,10 +34,10 @@
 
 <br><br>
 <a href="https://github.com/Shashankvaish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankvaish&theme=dark">
 </a>
 <a href="https://github.com/Shashankvaish">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashankvaish&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
 </a>
 
 ⭐️ From [Shashank Vaish](https://github.com/Shashankvaish)
