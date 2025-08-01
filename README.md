@@ -30,7 +30,14 @@
 - 📫 How to reach me: vaishshashank3@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1ShlI7USB5EVBLb0Mv5NAXsqzn8G1dpfm/view?usp=sharing)) <br>
 
-![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)
+![Solidity](https://img.shields.io/badge/Solidity-%3C%2F%3E-darkgreen?logo=solidity)
+![JavaScript](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-%3C%2F%3E-blue?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-%3C%2F%3E-339933?logo=node.js)
+![React.js](https://img.shields.io/badge/React.js-%3C%2F%3E-61DAFB?logo=react)
+![NestJS](https://img.shields.io/badge/NestJS-%3C%2F%3E-E0234E?logo=nestjs)
+![Express.js](https://img.shields.io/badge/Express.js-%3C%2F%3E-black?logo=express)
+
 
 <br><br>
 <a href="https://github.com/Shashankvaish">
