@@ -28,7 +28,7 @@
 - :man_technologist: B.Tech(Information Technology), Abes engineering college; 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
 - 📫 How to reach me: vaishshashank3@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1ShlI7USB5EVBLb0Mv5NAXsqzn8G1dpfm/view?usp=sharing)) <br>
+- 📝[Resume](https://drive.google.com/file/d/1xzm8GC3e-7OUgdI07YvYwvXRnsoMjUwY/view?usp=sharing)) <br>
 
 ![Solidity](https://img.shields.io/badge/Solidity-%3C%2F%3E-darkgreen?logo=solidity)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow?logo=javascript)
